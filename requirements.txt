@@ -88,7 +88,7 @@ html5lib @ file:///Users/ktietz/demo/mc3/conda-bld/html5lib_1629144453894/work
 httpcore==0.17.2
 httptools==0.5.0
 httpx==0.24.1
-idna @ file:///tmp/build/80754af9/idna_1622654382723/work
+
 imagecodecs @ file:///opt/concourse/worker/volumes/live/ab9fe69e-f7d4-471a-6199-cb95a745fb88/volume/imagecodecs_1635529117386/work
 imageio @ file:///tmp/build/80754af9/imageio_1617700267927/work
 imagesize @ file:///Users/ktietz/demo/mc3/conda-bld/imagesize_1628863108022/work
